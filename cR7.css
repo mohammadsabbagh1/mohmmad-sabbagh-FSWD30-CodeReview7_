@@ -1,0 +1,19 @@
+*{
+
+}
+
+.nav {
+	background-color: #424040;
+}
+.jumbotron {
+		background-image: url(https://www.planwallpaper.com/static/images/HD-Wallpapers1_FOSmVKg.jpeg);
+}
+.container {
+	margin-top: 20px;
+}
+.row {
+	padding: 10px;
+}
+footer {
+	text-align: center;
+}
